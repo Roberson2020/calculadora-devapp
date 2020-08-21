@@ -7,7 +7,7 @@ echo "Digite - para subtraçao" . PHP_EOL;
 echo "Digite * para multiplicaçao" . PHP_EOL;    
 echo "Digite / para divisao" . PHP_EOL;
 
-$operaçao = readline ('Informe a operação desejada: ');
+$operacao = readline ('Informe a operação desejada: ');
 
 $num1 = readline('Informe o primeiro numero: ');
 $num2 = readline('Informe o segundo numero: ');
